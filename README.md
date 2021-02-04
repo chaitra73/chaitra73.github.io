@@ -1,4 +1,5 @@
-#Chaitra Sri Seemakurthi
-##Education Details
-btech-1st year
-**Branch :**ECT
+# Chaitra Sri Seemakurthi
+## Education Details
+**Btech 1st year**
+*Branch:ECT*  
+
